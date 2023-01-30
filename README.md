@@ -1,10 +1,10 @@
+# Angular Auth Front
+
+Projeto de desenvolvimento de uma SPA de Login Admin em TypeScript usando o Framework Angular.
+
 # Demo
 
 Inserir demo
-
-# Angular Auth Front
-
-Projeto de desenvolvimento de uma SPA de Login Admin.
 
 # AngularAuthFront
 
