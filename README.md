@@ -1,3 +1,11 @@
+# Angular Auth Front
+
+Projeto de desenvolvimento de uma SPA de Login Admin em TypeScript usando o Framework Angular.
+
+# Deply
+
+https://danielsjordao.github.io/angular-auth-front/
+
 # AngularAuthFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
