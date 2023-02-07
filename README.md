@@ -6,7 +6,7 @@ Projeto de desenvolvimento de uma SPA de Login Admin em TypeScript usando o Fram
 
 https://danielsjordao.github.io/angular-auth-front/
 
-# Angular Auth Front
+# Standard Angular ReadMe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
