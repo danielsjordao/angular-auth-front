@@ -2,7 +2,7 @@
 
 Projeto de desenvolvimento de uma SPA de Login Admin em TypeScript usando o Framework Angular.
 
-# Deploy
+# Deploy do projeto
 
 https://danielsjordao.github.io/angular-auth-front/
 
